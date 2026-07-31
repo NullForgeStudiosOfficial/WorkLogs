@@ -1,5 +1,7 @@
 # Development Log 5
 
+![workimage](Assets/WorkLog5Image.png)
+
 Today's work focused primarily on improving project documentation and community resources.
 
 ## Wiki Foundation

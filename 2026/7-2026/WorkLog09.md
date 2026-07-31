@@ -1,4 +1,6 @@
-# Development Log 7
+# Development Log 9
+
+![workimage](Assets/WorkLog9Image.png)
 
 Finished the story of the dragons, and all 4 of them on the wiki. 
 

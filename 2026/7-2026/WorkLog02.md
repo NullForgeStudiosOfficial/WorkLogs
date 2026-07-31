@@ -1,6 +1,9 @@
 
 # Development Log 2
 
+![workimage](Assets/WorkLog2Image.png)
+
+
 Today's work focused almost entirely on refining Daemon Protocol's combat systems. The biggest theme was validating interactions between mechanics rather than adding entirely new features.
 
 ## Catalyst Combat

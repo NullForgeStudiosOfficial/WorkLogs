@@ -1,5 +1,7 @@
 # Development Log 7
 
+![workimage](Assets/WorkLog7Image.png)
+
 Today's work shifted away from game development and almost entirely toward documenting the Ardron Universe itself.
 
 Rather than implementing new mechanics, the focus became establishing a permanent historical archive for the setting. While this produced very little gameplay, it greatly strengthened the world's internal consistency and will make future development significantly easier.

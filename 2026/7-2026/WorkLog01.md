@@ -1,5 +1,7 @@
 # Development Log 1
 
+![workimage](Assets/WorkLog1Image.png)
+
 Today's work ended up being less about writing code and more about questioning why parts of Ardron Universe exist in the first place.
 
 As the project continues to grow, I'm noticing an increasing difference between **adding content** and **improving the game**. Those two goals sound identical, but they're becoming very different.

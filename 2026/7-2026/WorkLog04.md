@@ -1,6 +1,8 @@
 
 # Development Log 4
 
+![workimage](Assets/WorkLog4Image.png)
+
 Ain't even going to do the rope and pony show.
 
 We posted a Q&A for Daemon Protocol on steam.

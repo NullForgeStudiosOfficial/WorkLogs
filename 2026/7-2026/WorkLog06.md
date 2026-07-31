@@ -1,6 +1,8 @@
 
 # Development Log 6
 
+![workimage](Assets/WorkLog6Image.png)
+
 Today's work marked the beginning of Daemon Protocol's transition away from Python's nested dictionary structures and toward a proper object-oriented architecture in C#.
 
 Rather than focusing on gameplay mechanics, the majority of the session was spent building the foundation that future systems will rely on. While this resulted in relatively little visible gameplay, it dramatically simplified how future content will be created.

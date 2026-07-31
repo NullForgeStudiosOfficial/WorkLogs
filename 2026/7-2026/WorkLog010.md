@@ -1,5 +1,15 @@
 # Work Log 10
-![WereBackBaby](weresoback.jpeg)
+
+
+![workimage](Assets/WorkLog10Image.png)
+
+# Personal Note
+
+![WereBackBaby](Assets/weresoback.jpeg)
+
+I'm recovering from a pretty nasty infection that knocked me out for a few days. That's why there haven't been many work logs recently. At one point I was barely awake for more than a few hours a day, so development was effectively on hold.
+
+Thankfully, I'm feeling much better now and getting back into the project.
 
 ## Steam Store Page Revisions
 
@@ -26,8 +36,3 @@ Reviewed the post, refined its wording, and ensured it accurately reflected the 
 Today wasn't about adding new gameplay systems—it was about presentation.
 
 A good first impression can be just as important as a new feature, especially for an unreleased game. Taking the time to improve the Steam page now should make it much easier for future players to understand what Daemon Protocol is trying to accomplish.
-
----
-
-Also. 
-I'm recovering from a hell of an infection. it basically killed me for a couple days there. hence no real logs the past couple of days. i havn't even been conscious for 18 hours the past 3 days. its been rough.

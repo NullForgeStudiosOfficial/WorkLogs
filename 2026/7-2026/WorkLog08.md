@@ -1,4 +1,6 @@
-# Development Log 7
+# Development Log 8
+
+![workimage](Assets/WorkLog8Image.png)
 
 Finished the Fae and primordial explinations on the wiki. 
 
