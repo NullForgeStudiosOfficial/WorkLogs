@@ -55,3 +55,12 @@ add 3 hours to that clock for Brave.
 Brave browser is where i do all my "Work" related things on browers. 
 
 the wiki. writing steam pages. editing Falatur. so yeah. Brave is not my liesure browser. Thats firefox. 
+
+---
+
+
+Update:
+
+called it >.> i ended upw riting and working until i had to do adulting things.. uh lol. 
+
+ah well :) bigworkday. i feel like trash now :D 
