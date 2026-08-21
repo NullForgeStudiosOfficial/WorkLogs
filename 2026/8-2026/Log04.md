@@ -1,6 +1,6 @@
 # Work Log 4
 
-![workimage](Assets/Log4Image.png)
+![workimage](Assets/Log04Image.png)
 
 # HOLY DAMN
 
@@ -14,7 +14,7 @@ Nah.
 
 I'm giving it personality.
 
-![timeline](Assets/Log4TimeLine.png)
+![timeline](Assets/Log04TimeLine.png)
 
 As you can see... that's **just** the lore section.
 

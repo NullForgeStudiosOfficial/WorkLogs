@@ -1,6 +1,6 @@
 # Work Log 7
 
-![workimage](Assets/Log7Image.png)
+![workimage](Assets/Log07Image.png)
 
 # We do a little work
 

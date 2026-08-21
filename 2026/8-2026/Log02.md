@@ -1,6 +1,6 @@
 # Work Log 2
 
-![workimage](Assets/Log2Image.png)
+![workimage](Assets/Log02Image.png)
 
 # WE RIDE AT DAWN
 

@@ -1,6 +1,6 @@
 # Work Log 6
 
-![workimage](Assets/Log6Image.png)
+![workimage](Assets/Log06Image.png)
 
 # Whoops. 
 

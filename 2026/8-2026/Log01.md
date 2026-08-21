@@ -1,6 +1,6 @@
 # Work Log 1
 
-![workimage](Assets/Log1Image.png)
+![workimage](Assets/Log01Image.png)
 
 # Three Days
 

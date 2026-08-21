@@ -1,6 +1,6 @@
 # Work Log 8
 
-![workimage](Assets/Log8Image.png)
+![workimage](Assets/Log08Image.png)
 
 # Website Update
 
