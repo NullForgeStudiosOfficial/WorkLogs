@@ -6,8 +6,10 @@
 
 So. regardless of the pain. i said fuck it and went outside and did things. 
 ---
+
 non work related:
 i drained the pool while i did other things ¯\_(ツ)_/¯
+
 ---
 Work related:
 firstthignsfirst. i started stress testing my arrows for falatur. 
@@ -61,6 +63,7 @@ so yeah GOOD DAY
 good data? even better data than i thought 🤨
 
 seems the extra head weight puts too much intertial problems on the arrow, and the shaft suffers at higher poundage, compared to....the arrowhead being pierced.
+
 ---
 
 
