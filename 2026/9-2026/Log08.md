@@ -172,17 +172,26 @@ Changed hwo the fuck AoA AP system works again... psychotically.
 30 total AP
 
 quick = 2
+
 small = 8
+
 medium = 16
+
 large = 24
 
 instead of having QAP and AP.... i'm refactoring it into a single action point pool for simplicity :v 
 but. 
 
+
+
 you need to be able to do at least 3 quick actions per turn. 
+
 3 smalls per turn maximum. + 3 quick
+
 1 medium maximum per turn. + 3 quick
+
 1 large maximum per turn. + 3 quick
+
 at least 1 medium + 1 small. and still 3 quick. 
 
 like... xD shits wild. 
