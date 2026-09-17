@@ -18,13 +18,13 @@ These images will be posted from most recent to last once the month is finished.
 
 ---
 
-[augwork](2026/8-2026/Assets/Augwork.png)
+![augwork](2026/8-2026/Assets/Augwork.png)
 
-[julywork](2026/7-2026/Assets/JulyTotal.png)
+![julywork](2026/7-2026/Assets/JulyTotal.png)
 
-[junework](2026/6-2026/Assets/JuneTotal.png)
+![junework](2026/6-2026/Assets/JuneTotal.png)
 
-[maywork](2026/5-2026/Assets/MayTotal.png)
+![maywork](2026/5-2026/Assets/MayTotal.png)
 
 
 ---
