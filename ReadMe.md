@@ -18,6 +18,41 @@ These images will be posted from most recent to last once the month is finished.
 
 ---
 
+The program I use for tracking is called Nullsuite. It's a collection of tools developed by me. 
+
+The important one is called NullFocus. 
+
+This handy tool tracks every MILLISECOND that a window is in focus. It also tracks "active time"
+
+Active time is in (parenthesis)
+
+Active time only counts when a mouse is clicked, or a keyboard key has been pressed within 5 seconds while the window is in focus. After 5 seconds active time no longer tracks. 
+
+It does not track mouse movement as "active"...that would be ungodly computer resource intensive, and I don't want to do that. 
+
+I started this tracking mission as a way to keep me...well on track. Let me know if im slacking or overworking(ususally over working if im being honest)
+
+Let's me know why I'm feeling burnt out. So it's more for me than anything else, but its also public knowledge as I want to be transparant to my customers. 
+
+---
+
+As a bonus it's also required for my medical insurance and other benefits, requiring 80h a month of work... kinda doubling that on average. 
+
+---
+
+
+
+REMINDER: We fixed the Nullfocus "Multi-Window" bug in July (e.g. if you have 2 windows with the same name. click from window 1 to window 2, it threw that time away completley.)
+
+(... I do this alot with programming. multiple programming windows. so.)
+
+(Times reported prior to the fix should be treated as minimums. Actual work time was higher, but the amount of missing time cannot be reliably reconstructed. One observed day was missing roughly 10 hours.)
+
+(Rather, than going in and fix this manually. I'd rather keep the logs honest, and show what they report. I'm only frightened by what the new logs will say about my overworking habits.)
+
+---
+
+
 (In aug i changed "Work" to "AuWork". The totals together add up to: 159:41:26 (137:45:37))
 ![augwork](2026/8-2026/Assets/Augwork.png)
 
