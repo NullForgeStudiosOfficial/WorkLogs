@@ -18,7 +18,9 @@ These images will be posted from most recent to last once the month is finished.
 
 ---
 
+(In aug i changed "Work" to "AuWork". The totals together add up to: 159:41:26 (137:45:37))
 ![augwork](2026/8-2026/Assets/Augwork.png)
+
 
 ![julywork](2026/7-2026/Assets/JulyTotal.png)
 
