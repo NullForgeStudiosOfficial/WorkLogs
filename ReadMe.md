@@ -24,8 +24,6 @@ These images will be posted from most recent to last once the month is finished.
 
 ![junework](2026/6-2026/Assets/JuneTotal.png)
 
-![maywork](2026/5-2026/Assets/MayTotal.png)
-
 (May will be very short hours/total due to only starting on the 22nd when i got NullSuite running.)
 ![Maysmal](2026/5-2026/Assets/MaySmall.png)
 
