@@ -55,7 +55,7 @@ REMINDER: We fixed the Nullfocus "Multi-Window" bug in September (e.g. if you ha
 
 ---
 
-![sepwork](2026/9-2026/Assets/SepSummary.png.png)
+![sepwork](2026/9-2026/Assets/SepSummary.png)
 Nothing special in september. just... lots of personal life problems, and not a lot of work (least imo)
 
 
