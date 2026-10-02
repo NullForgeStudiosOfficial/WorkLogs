@@ -55,6 +55,11 @@ REMINDER: We fixed the Nullfocus "Multi-Window" bug in September (e.g. if you ha
 
 ---
 
+![sepwork](2026/9-2026/Assets/SepSummary.png.png)
+Nothing special in september. just... lots of personal life problems, and not a lot of work (least imo)
+
+
+
 
 (In aug i changed "Work" to "AuWork". The totals together add up to: 159:41:26 (137:45:37))
 ![augwork](2026/8-2026/Assets/Augwork.png)
