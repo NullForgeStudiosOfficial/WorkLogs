@@ -58,7 +58,7 @@ REMINDER: We fixed the Nullfocus "Multi-Window" bug in September (e.g. if you ha
 ![sepwork](2026/9-2026/Assets/SepSummary.png)
 Nothing special in september. just... lots of personal life problems, and not a lot of work (least imo)
 
-
+===
 
 
 (In aug i changed "Work" to "AuWork". The totals together add up to: 159:41:26 (137:45:37))
@@ -66,15 +66,19 @@ Nothing special in september. just... lots of personal life problems, and not a 
 
 (August i *slightly* fixed the bug? there is 744 hours in august. there is only 727:57 hours logged in august. 16:02 hours are missing. )
 
+===
 
 ![julywork](2026/7-2026/Assets/JulyTotal.png)
 
 (July has 744 hours in the month. 714:20 hours are tracked. so about 29:39 hours missing.)
 
+===
+
 ![junework](2026/6-2026/Assets/JuneTotal.png)
 
 (June is absolutely fucked. I didn't know the bug existed. June has 720 hours. there is only about 629:21 hours tracked... 90:38 hours missing. Probably all work related.)
 
+===
 
 (May will be very short hours/total due to only starting on the 22nd when i got NullSuite running.)
 ![Maysmal](2026/5-2026/Assets/MaySmall.png)
