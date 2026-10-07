@@ -1,5 +1,6 @@
 # Log 2  - 3/4th of october 2026
 
+![workimage](Assets/Log02Image.png)
 
 Like stated. October is a break month.
 Specially cause so much shit is happening. 
