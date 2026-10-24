@@ -50,3 +50,11 @@ efficisizing things too.
 so its great. 
 
 anyways. toodles. that 24th might get more hours on it considering i'll be working *later*, but we'll see. 
+
+---
+
+![workimage](Assets/Log08TwoImage.png)
+
+did more work. Steam pages and unity and such.
+
+gettin in the car :v
