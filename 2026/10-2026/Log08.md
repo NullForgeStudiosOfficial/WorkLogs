@@ -1,6 +1,6 @@
 # Log 8  - 20/21/22/23/24th of october 2026
 
-![workimage](Assets/Log088OneImage.png)
+![workimage](Assets/Log08OneImage.png)
 
 ---
 
