@@ -53,6 +53,24 @@ REMINDER: We fixed the Nullfocus "Multi-Window" bug in September (e.g. if you ha
 
 (Rather, than going in and fix this manually. I'd rather keep the logs honest, and show what they report. I'm only frightened by what the new logs will say about my overworking habits.)
 
+
+---
+
+![octwork](2026/9-2026/Assets/OctSummary.png)
+This just proves I don't know how to take a god damn break. 
+
+October is supposed to be my "off" month. the one where I don't work, and relax a lot, and enjoy the holiday, as its my favorite, and i don't really take days off unless i absolutely have too. 
+
+welp. i didn't lmao. 
+I racked up more work than september o.e 
+which is even funnier cause my laptop time wasn't logged so its even higher. 
+plus some mixed was me working on the website... a lot. cause i also need to test things in firefox and yeah. 
+:D fun times....
+on to turkey month!
+
+
+
+
 ---
 
 ![sepwork](2026/9-2026/Assets/SepSummary.png)
